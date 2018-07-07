@@ -1,12 +1,12 @@
-#Tic Tac Toe Game
+# Tic Tac Toe Game
 
 Project created to test developer skills
 
-###Getting Started
+### Getting Started
 This project were created using Java technology and tested using JUnit Framework. 
-The design decisions were made expecting the software growth in future and using principles of SOLID and DRY.
+The design decisions were made expecting the software growth in future and using principles of SOLID and DRY. As the input and output is flexible and all is based on the implementation classes, the players is easy to accept more players in the future, the exceptions are properly managed, the software is closed to modification and open to extensions.
 
-###Prerequisites and Installing
+### Prerequisites and Installing
 
 Java, Maven and an IDE. if you want to generate the jar file simple use:
 ```
@@ -20,7 +20,7 @@ To perform an production run you should use java command line:
 java -jar tic-tac-toe.jar
 ```
 
-###Coding
+### Coding
 If you want to run directly by the IDE, you can modify the usual game configuration file. Its located into resources folder and named as:
 
 ```
