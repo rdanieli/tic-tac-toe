@@ -1,8 +1,8 @@
-package com.metronom.game.input;
+package com.metronorm.game.input;
 
-import com.metronom.game.domain.Played;
-import com.metronom.game.domain.PlayedFactory;
-import com.metronom.game.exceptions.NotAcceptedPlayed;
+import com.metronorm.game.domain.Played;
+import com.metronorm.game.domain.PlayedFactory;
+import com.metronorm.game.exceptions.NotAcceptedPlayed;
 
 import java.util.Scanner;
 

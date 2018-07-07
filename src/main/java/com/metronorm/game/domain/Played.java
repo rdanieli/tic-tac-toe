@@ -1,4 +1,4 @@
-package com.metronom.game.domain;
+package com.metronorm.game.domain;
 
 public class Played {
 

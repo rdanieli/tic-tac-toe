@@ -1,6 +1,6 @@
-package com.metronom.game.input;
+package com.metronorm.game.input;
 
-import com.metronom.game.exceptions.InputIncorrectException;
+import com.metronorm.game.exceptions.InputIncorrectException;
 
 public class UserInputData {
     private String data;

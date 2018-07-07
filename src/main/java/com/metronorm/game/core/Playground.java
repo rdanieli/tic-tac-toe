@@ -1,8 +1,8 @@
-package com.metronom.game.core;
+package com.metronorm.game.core;
 
-import com.metronom.game.domain.Played;
-import com.metronom.game.domain.Player;
-import com.metronom.game.output.PrintableBoard;
+import com.metronorm.game.domain.Played;
+import com.metronorm.game.domain.Player;
+import com.metronorm.game.output.PrintableBoard;
 
 import java.util.Set;
 

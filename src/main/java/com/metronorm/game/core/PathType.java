@@ -1,4 +1,4 @@
-package com.metronom.game.core;
+package com.metronorm.game.core;
 
 public enum PathType {
     COLUMN(){

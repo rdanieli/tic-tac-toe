@@ -1,6 +1,6 @@
-package com.metronom.game.input;
+package com.metronorm.game.input;
 
-import com.metronom.game.domain.Played;
+import com.metronorm.game.domain.Played;
 
 public interface ReadableBoard {
     Played readInput(String[][] board);

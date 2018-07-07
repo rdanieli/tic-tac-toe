@@ -1,8 +1,8 @@
-package com.metronom.game.setup;
+package com.metronorm.game.setup;
 
-import com.metronom.game.bot.AutoSuggestionPlayed;
-import com.metronom.game.domain.Player;
-import com.metronom.game.input.ConsoleReaderBoard;
+import com.metronorm.game.bot.AutoSuggestionPlayed;
+import com.metronorm.game.domain.Player;
+import com.metronorm.game.input.ConsoleReaderBoard;
 
 import java.util.ResourceBundle;
 import java.util.Set;

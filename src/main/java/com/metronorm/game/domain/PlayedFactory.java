@@ -1,7 +1,7 @@
-package com.metronom.game.domain;
+package com.metronorm.game.domain;
 
-import com.metronom.game.exceptions.NotAcceptedPlayed;
-import com.metronom.game.input.UserInputData;
+import com.metronorm.game.exceptions.NotAcceptedPlayed;
+import com.metronorm.game.input.UserInputData;
 
 public class PlayedFactory {
     public static Played create(UserInputData input){

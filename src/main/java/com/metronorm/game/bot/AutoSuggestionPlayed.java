@@ -1,7 +1,7 @@
-package com.metronom.game.bot;
+package com.metronorm.game.bot;
 
-import com.metronom.game.domain.Played;
-import com.metronom.game.input.ReadableBoard;
+import com.metronorm.game.domain.Played;
+import com.metronorm.game.input.ReadableBoard;
 
 public class AutoSuggestionPlayed implements ReadableBoard {
     @Override

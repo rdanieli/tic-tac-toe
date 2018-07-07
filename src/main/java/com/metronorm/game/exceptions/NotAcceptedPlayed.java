@@ -1,4 +1,4 @@
-package com.metronom.game.exceptions;
+package com.metronorm.game.exceptions;
 
 public class NotAcceptedPlayed extends RuntimeException {
     public NotAcceptedPlayed(String message){

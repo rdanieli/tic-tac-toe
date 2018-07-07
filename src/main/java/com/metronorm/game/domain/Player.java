@@ -1,6 +1,6 @@
-package com.metronom.game.domain;
+package com.metronorm.game.domain;
 
-import com.metronom.game.input.ReadableBoard;
+import com.metronorm.game.input.ReadableBoard;
 
 import java.util.Objects;
 

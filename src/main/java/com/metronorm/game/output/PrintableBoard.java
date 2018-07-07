@@ -1,4 +1,4 @@
-package com.metronom.game.output;
+package com.metronorm.game.output;
 
 public interface PrintableBoard {
     void printSingle(String value);

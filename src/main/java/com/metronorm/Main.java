@@ -1,8 +1,8 @@
-package com.metronom;
+package com.metronorm;
 
-import com.metronom.game.core.Playground;
-import com.metronom.game.output.ConsolePrintableBoard;
-import com.metronom.game.setup.GameSetup;
+import com.metronorm.game.core.Playground;
+import com.metronorm.game.output.ConsolePrintableBoard;
+import com.metronorm.game.setup.GameSetup;
 
 public class Main {
 
