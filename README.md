@@ -4,7 +4,7 @@ Project created to test developer skills
 
 ### Getting Started
 This project were created using Java technology and tested using JUnit Framework. 
-The design decisions were made expecting the software growth in future and using principles of SOLID and DRY.
+The design decisions were made expecting the software growth in future and using principles of SOLID and DRY. As the input and output is flexible and all is based on the implementation classes, the players is easy to accept more players in the future, the exceptions are properly managed, the software is closed to modification and open to extensions.
 
 ### Prerequisites and Installing
 
